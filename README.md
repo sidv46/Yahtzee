@@ -67,8 +67,3 @@ naar het optiesmenu te gaan. Daar kun je de resolutie, graphics en volume verand
 Als je op start klikt start de game. Daar zie een tafel en een knop om de dobbelstenen te gooien. Je ziet ook een tandwiel links boven in je scherm.
 Dat is het optiesmenu. Als je deze opent krijg je dezelfde opties als die van het mainmenu. Je krijgt ook een extar knop om terug te gaan naar het
 mainmenu.
-
-
-Installatie
-
-
